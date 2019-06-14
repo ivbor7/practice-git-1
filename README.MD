@@ -1,2 +1,2 @@
 # practice-git-1
-This repository was created for trainig purposes.
+This repository was created for training purposes.
